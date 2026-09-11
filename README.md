@@ -14,11 +14,12 @@ An end-to-end data analysis project exploring Dublin grocery store transaction d
 * **Database:** PostgreSQL (`psql`)
 * **Environment:** Ubuntu Linux, JupyterLab
 
-## 📁 Repository Structure
+## 📁 Repository Structure'''
 >├── 01_Dublin_Grocery_Analysis.ipynb   # Main Jupyter Notebook
 ├── Dublin_Grocery_Sales_Complete.xlsx # Raw & Cleaned Dataset
 ├── category_profit_chart.png          # Visualizations
-└── README.md                          # Project Documentation
+└── README.md                          # Project
+''' Documentation
 
 
 ## 🚀 How to Run Locally
