@@ -22,6 +22,6 @@ An end-to-end data analysis project exploring Dublin grocery store transaction d
 
 
 ## 🚀 How to Run Locally
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/dublin-grocery-sales-analysis.git`
+1. Clone the repository: `git clone https://github.com/sudo-khan/dublin-grocery-sales-analysis.git`
 2. Activate virtual environment: `source env/bin/activate`
 3. Launch JupyterLab: `jupyter lab`
